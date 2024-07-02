@@ -1,0 +1,19 @@
+<resources>
+    <style name="TicTacToeButton">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:layout_rowWeight">1</item>
+        <item name="android:layout_columnWeight">1</item>
+        <item name="android:background">#FFFFFF</item>
+        <item name="android:textSize">32sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="tic_tac_toe">Tic Tac Toe</string>
+    <string name="player_x_s_turn">Player X\'s Turn</string>
+    <string name="player_x_wins_0">Player X Wins: 0</string>
+    <string name="player_o_wins_0">Player O Wins: 0</string>
+    <string name="reset">Reset</string>
+</resources>
